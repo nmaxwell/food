@@ -1,0 +1,10 @@
+mixed spice:
+
+cinamon
+coriander seed
+caraway
+nutmeg
+ginger
+cloves
+
+end mixed spice
